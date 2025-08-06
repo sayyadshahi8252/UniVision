@@ -12,7 +12,7 @@ export default function Campus() {
     return (
         <div className={style.campus} id='campus'>
             <h4>Gallery</h4>
-            <h1>campus photo</h1>
+            <h1>campus photos</h1>
             <div className={style.gallery}>
                 <img src={gallery1} alt="" />
                 <img src={gallery2} alt="" />
