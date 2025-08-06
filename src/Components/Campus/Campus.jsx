@@ -19,8 +19,7 @@ export default function Campus() {
                 <img src={gallery3} alt="" />
                 <img src={gallery4} alt="" />
                 <img src={gallery5} alt="" />
-                <img src={gallery6} alt="" />
-                <img src={gallery2} alt="" />
+              
             </div>
             <button>see more here <img src={arrow} alt="" /></button>
         </div>
