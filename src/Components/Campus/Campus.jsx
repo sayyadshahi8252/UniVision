@@ -3,9 +3,9 @@ import style from '../Campus/Campus.module.css'
 import gallery1 from '../../assets/Campus1.jpg'
 import gallery2 from '../../assets/campus2.jpg'
 import gallery3 from '../../assets/campus3.jpg'
-import gallery4 from '../../assets/Campus4.jpg'
-import gallery5 from '../../assets/Campus5.jpg'
-import gallery6 from '../../assets/Campus6.jpg'
+import gallery4 from '../../assets/campus4.jpg'
+import gallery5 from '../../assets/campus5.jpg'
+import gallery6 from '../../assets/campus6.jpg'
 import arrow from '../../assets/icons8-arrow-50.png'
 
 export default function Campus() {
