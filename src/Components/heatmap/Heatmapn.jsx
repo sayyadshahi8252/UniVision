@@ -1,7 +1,7 @@
 import React from 'react';
 import { MapContainer, TileLayer, CircleMarker, Tooltip } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
-import styles from './heatmapn.module.css';
+import styles from '../heatmap/Heatmapn.module.css';
 
 const studentData = 
 [
