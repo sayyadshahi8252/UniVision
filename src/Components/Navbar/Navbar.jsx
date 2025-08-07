@@ -9,7 +9,7 @@ function Navbar() {
   const [sticky, setSticky] = useState(false);
   useEffect(() => {
     window.addEventListener('scroll', () => {
-      window.scrollY > 300 ? setSticky(true) : setSticky(false);
+      window.scrollY > 100 ? setSticky(true) : setSticky(false);
     })
   },)
   const [mobilemenu, setMobilemenu] = useState(false)
